@@ -10,13 +10,13 @@
 <h3>Best Collaborator</h3>
 <table border="0" style="width: 300px; height: 180px" cellspacing="0">
   <tbody>
-   <tr>
-        <td>:star: Adam Dwi Julianto</td>
-        <td><img src="https://img.shields.io/badge/NIM-E41200175-blue"></td>
+     <tr>
+        <td>:star: Alvin Pradana Antony (Lead)</td>
+        <td><img src="https://img.shields.io/badge/NIM-E41200142-blue"></td>
       </tr>
       <tr>
-        <td>:star: Alvin Pradana Antony</td>
-        <td><img src="https://img.shields.io/badge/NIM-E41200142-blue"></td>
+        <td>:star: Adam Dwi Julianto</td>
+        <td><img src="https://img.shields.io/badge/NIM-E41200175-blue"></td>
       </tr>
       <tr>
         <td>:star: Alvioni Tineke Risqianti.</td>
@@ -36,7 +36,14 @@
 <br><br>
 
 <h1 align="center">Screenshot</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5cde24ec-1f38-4792-8a10-11b0d47e8c10">
 <img src="https://user-images.githubusercontent.com/74761484/158917230-c34c28f5-ccb9-408b-b534-07fb7ef6c31e.png">
+<img src="https://github.com/user-attachments/assets/f0992d59-3533-4635-b449-9064846b7bde">
+<img src="https://github.com/user-attachments/assets/1466ba37-a6f0-403b-be41-a941ed7d722a">
+<img src="https://github.com/user-attachments/assets/3a9563de-9918-4e9a-9016-610b5ce2d306">
+</div>
+
 
 
 
